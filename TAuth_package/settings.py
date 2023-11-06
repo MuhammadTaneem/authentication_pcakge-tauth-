@@ -136,7 +136,7 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'famouswebdeveloper@gmail.com'  # Your email address
 # EMAIL_HOST_PASSWORD = '********'  # Your email password
-EMAIL_HOST_PASSWORD = 'zzdjlscpwsggtrdl'  # Your email password
+
 
 
 REST_FRAMEWORK = {
